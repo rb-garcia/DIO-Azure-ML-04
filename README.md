@@ -16,7 +16,7 @@ Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dado
 - Clicar em "Create a resource"
 - Clicar em "AI + Machine Learning"
 - Clicar em "Azure AI services"P
-- Preencher os campos Substription / Resource Group /
+- Preencher os campos Substription / Resource Group
 - No campo Region, selecionar "East US"
 - Prencher o campo "Name"
 - No campo Pricing tier, selecionar opção "Standard S0"
@@ -24,3 +24,12 @@ Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dado
 - Clicar em Review + create
 - Clicar em Create
 
+## Criar armazenamento
+- Clicar em "Storage accounts"
+- Clicar em "+ Create"
+- Preencher os campos Subscription / Resource Group / Storage account name
+- No campo Region, selecionar "East US"
+- No campo Performance, selecione a opção "Standard: Recommended for most scenarios..."
+- No campo Redundancy, selecion a opção "Locally-redundant storage (LRS)"
+- Clicar em "Review"
+- Clicar em "Create"
