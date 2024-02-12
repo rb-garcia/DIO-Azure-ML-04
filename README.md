@@ -6,8 +6,21 @@ Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dado
 - Clicar em "Azure AI services"
 - Clicar em "AI Search"
 - Clicar em "+ Create"
-- Preencher campo Subscription / Resource Group / Service Name
+- Preencher os campos Subscription / Resource Group / Service Name
 - No campo Location, selecionar "East US" 
 - No campo Pricing tier, selecionar o nível "Basic"
 - Clicar em "Review + Create"
 - Clicar em "Create"
+
+## Criar um recurso de IA
+- Clicar em "Create a resource"
+- Clicar em "AI + Machine Learning"
+- Clicar em "Azure AI services"P
+- Preencher os campos Substription / Resource Group /
+- No campo Region, selecionar "East US"
+- Prencher o campo "Name"
+- No campo Pricing tier, selecionar opção "Standard S0"
+- No campo By checking this box I acknowledge tha... clicar para selecionar
+- Clicar em Review + create
+- Clicar em Create
+
