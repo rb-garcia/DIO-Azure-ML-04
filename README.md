@@ -44,5 +44,9 @@ Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dado
 - Preencher o campo Name
 - No campo "Anonymous access level", selecionar a opção Container (anonymous read access for containers and blobs)
 - Clicar em "Create"
+### Importar os arquivos para o container
+- Clicar no nome do container na lista de containers
+- Clicar em "Upload" para fazer o upload dos arquivos
+- 
 
  
