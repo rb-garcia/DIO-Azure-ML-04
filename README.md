@@ -33,3 +33,10 @@ Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dado
 - No campo Redundancy, selecion a opção "Locally-redundant storage (LRS)"
 - Clicar em "Review"
 - Clicar em "Create"
+### Configurando o armazenamento
+- No grupo de opções do menu "Settings", clicar em Configuration
+- Clicar em "Enabled" na opção "Allow Blob anonymous access"
+- Clicar em "Save"
+
+
+- 
