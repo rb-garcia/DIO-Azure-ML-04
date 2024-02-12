@@ -47,3 +47,8 @@ Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dado
 ### Importar os arquivos para o container
 - Clicar no nome do container na lista de containers
 - Clicar em "Upload" para fazer o upload dos arquivos
+
+## Exemplos de busca
+- search=*&$count=true
+- search=locations:'Chicago'
+- search=sentiment:'negative'
