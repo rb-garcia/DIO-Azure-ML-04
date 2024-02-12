@@ -38,5 +38,11 @@ Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dado
 - Clicar em "Enabled" na opção "Allow Blob anonymous access"
 - Clicar em "Save"
 
+## Criar um container
+- Clicar na opção "Containers"
+- Clicar no botão "+ Container"
+- Preencher o campo Name
+- No campo "Anonymous access level", selecionar a opção Container (anonymous read access for containers and blobs)
+- Clicar em "Create"
 
-- 
+ 
